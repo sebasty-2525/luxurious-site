@@ -1,6 +1,6 @@
 // src/styles/GlobalStyles.js
 import { createGlobalStyle } from "styled-components";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 export const GlobalStyle = createGlobalStyle`
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display:wght@700&display=swap');
